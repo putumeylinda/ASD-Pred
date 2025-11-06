@@ -7,3 +7,4 @@ matplotlib
 torch
 tensorflow
 pytorch-tabnet
+imbalanced-learn
