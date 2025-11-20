@@ -37,7 +37,7 @@ def main():
     le_family_asd = model_data['le_family_asd']
     training_columns = model_data['training_columns']
 
-    st.write("Aplikasi ini memprediksi kemungkinan ASD pada balita menggunakan model SVM Linear yang sudah dilatih.")
+    st.write("Aplikasi ini memprediksi kemungkinan ASD pada anak menggunakan model SVM Linear yang sudah dilatih.")
 
     # --- Inisialisasi Alur Halaman (State Management) ---
     if "page" not in st.session_state:
